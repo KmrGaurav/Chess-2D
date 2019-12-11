@@ -8,6 +8,6 @@ There is no external library needed, just the Windows Native APIs i.e. Win32 and
 There's no need to install the game. It is single executable file and can be played just click it.
 
 ## Building process
-```bash
+```sh
 build.bat
 ```
