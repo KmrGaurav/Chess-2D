@@ -7,7 +7,7 @@ Chess-2D is 2D traditional game for two human players and be played offline for 
 There is no external library needed, just the Windows Native APIs i.e. Win32 and C++ (with Visual Compiler) as it is made from scratch.
 
 ## Installation
-There's no need to install the game. It is single executable file and can be played just click it.
+There's no need to install the game. It is single executable file and can be played by just clicking it.
 
 ## Building process
 ```sh
